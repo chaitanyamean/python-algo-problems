@@ -15,3 +15,8 @@ def binarySearch(arr,x,startingPoint,endingpoint):
 
 arr = [20,30,40,50,60,70]
 print(binarySearch(arr, 70))
+
+
+# Binary search only works on sorted Arrays
+# Binary search will not work on linked list
+
