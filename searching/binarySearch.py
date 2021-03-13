@@ -1,6 +1,6 @@
 import math
 
-def binarySearch(arr,x,startingPoint,endingpoint):
+def binarySearch(arr,x):
     low = 0
     high = len(arr) - 1
     while (low<=high):
