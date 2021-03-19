@@ -6,7 +6,6 @@ import math
 
 (Px, Py) = input().split()
 
-
 Cx = float(Cx)
 Cy = float(Cy)
 r = float(r)
